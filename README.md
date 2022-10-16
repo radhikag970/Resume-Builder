@@ -16,7 +16,7 @@ Resume building can sometimes be very complicated process.Using the website one 
 all the required information and can even skip a component for example if a fresher has no work experience then he/she 
 can just leave the portion blank and it will not appear in the resume.
 The Resume Builder websites has two main sections:
-The Editor- This component takes input from the user.It has 6 components to take input.
+The Editor- This component takes input from the user.It has 7 components to take input.
 a-Basic Info
 b-Work Experience
 c-Projects
